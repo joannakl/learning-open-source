@@ -1,12 +1,12 @@
 ---
 layout: page
-title: What do we mean by Open?
+title: What do we mean by 'Open'?
 module: '1.1'
 date: 2016-10-06T14:05:56.000Z
 time: 20 mins
 following: _articles/open-is-an-attitude/history-of-open.md
 summary: >-
-  This module will explore a variety of concepts, actions and attributes that form open ecosystems as fuel for collaborative innovation.
+  This section will explore a variety of concepts, actions and attributes that form open ecosystems as fuel for collaborative innovation.
 prereq: Have read the README
 format: >
   *   Read and watch videos on this topic, and consider answers to questions at the end of each section.

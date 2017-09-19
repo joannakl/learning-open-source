@@ -1,54 +1,50 @@
 ---
 layout: page
-title: The History of Open
-module: '1.3'
+title: The History of Open Source
+module: '1.2'
 date: 2016-10-06T14:05:56.000Z
 time: 25 mins
 following: _articles/open-is-an-attitude/opening-your-future.md
 summary: >-
-  This module explores what project leaders, or “leads” do on open projects, and
-  the kind of mindset and approach this role requires.
+  This section explores important moments in the open source history and it's influence on the rich ecosystem we see today.
 prereq: |
   * Have completed previous modules in this section
-  * Have a project idea
 format: |
-  * Read and watch videos on this topic
-  * Do a short thinking/writing reflection exercise
-materials: Paper and pen or computer for recording reflection
+  * Read content and watch videos on this topic
+  * Complete the short quiz
 ---
 
-- TOC {:toc}
+* TOC
+{:toc}
 
-# Oh Hi, We're Mozilla
+### Free Software Foundation
 
-This training was developed by Mozilla, in collaboration with [Teaching Open Source](http://teachingopensource.org/), [FOSS2Serve](http://foss2serve.org/index.php/Main_Page) with important contributions by community leaders contributing. Please see a full list in our [README](/_articles/readme.md).
+> In the early 1980’s Richard Stallman founded the Free Software Foundation: a socio-technological movement that revolutionized the software world. Stallman and Tim O’Reilly – a pioneer of Open Source – tell the story. [1]
 
-You may recognize the name Mozilla-- we're a group of people, organized as a non-profit, public charity-- that makes the Firefox web browser. Mozilla's Firefox is an open source project, which means the source code is freely, publicly available and anyone who would like to can help develop the project. Firefox was created and is sustained by the Mozilla staff and a collaborative community of volunteers, called "contributors." The open source movement showed that scrappy, self-organized groups of passionate volunteers could collaborate to develop viable alternatives to proprietary software, and even compete against huge corporations! Many practices of "working open"-- particularly the use of the web as a collaboration tool-- were created, tested, and refined by software developers working on open-source projects like Firefox.
+[Listen to the Podcast, or read the transcript](http://www.cmpod.net/all-transcripts/history-open-source-free-software-text/) (both linked on page) of Tim O'Reilly's interview with Richard Stallman.
 
-{% include videowrapper.html url="<https://www.filepicker.io/api/file/kLlp7wEAQBWJf8emecWo?autoplay=0>" title="Mozilla And The Firefox Creation Myth, Mark Surman" %}
+### {{ site.video }} The Mozilla Story: Making The World You Want
 
-In addition to developing Firefox and the community of contributors that builds and supports it, Mozilla fights for what we call the "open web." We're doing this by championing:
 
-- **Inclusion:** an accessible, free Internet for all
-- **Privacy:** user control of their own data on the web
-- **Web literacy***: the ability for everyone to meaningfully
+It's easy to forget, that not that long ago, a single company controlled the majority of software and hardware - that open was something mostly associated with 'basement hackers' and that as a business model was considered invalid.   Enter Mozilla Firefox 1.0
 
-  - Read: navigate the web, and find, evaluate, and synthesize web content
-  - Write: code, design, compose, revise and remix content for the web
-  - Participate: connect with online communities, share, contribute, maintain control over their own personal data, and work collaboratively with others on the web.
+Mozilla injected competition, innovation and opportunity by opening the source code for Netscape. 
 
-While we are constantly refining our working open practices, we're excited to share our decades of experience and expertise in this area with you... to help you and your communities create your own amazing projects on the web.
+* [Watch this video interview with Mozilla Chairwoman](https://techcrunch.com/2015/09/16/the-mozilla-story-making-the-world-you-want/) Mitchell Baker, and former Mozilla CEO Chris Lily as they revisit that time - and how it changed everything.
 
-*for more, see [Mozilla's web literacy map.](https://teach.mozilla.org/web-literacy/)
+* (Optional) Watch the short animated video of the Mozilla story.
+[![Watch the video](https://img.youtube.com/vi/kmk43_2dtn0/0.jpg)](https://www.youtube.com/watch?v=kmk43_2dtn0) 
 
-# Meet Mozilla's Network
+### {{ site.assignment }} 
+TODO: be exported to Teachable)
+Answer the following questions.
 
-To drive our efforts to secure and expand the open web, we coordinate and support a network of leaders. These leaders are people (like you) committed to working open and using the web to build, create, or make positive change-- especially around issues of inclusion, privacy, and web literacy. Members of the network are leading projects as diverse as improving civic engagement, creating better educational experiences, building more human technologies, and making scientific research more collaborative and efficient. Here's a glimpse of some of the awesome people and projects that are part of the network-- we hope you'll join us, too!
+1. According to Richard Stallman, what is the distinction between 'open source' and 'free software'?
+3. How is the story of Google Android a story of open source, and not free software?  (according to Stalman)
+4. What is Tim O'Reilly's argment about morality and software licensing?
+5. How did opening the source code enable the success of Firefox in a market dominated by Microsoft?
 
-{% include videowrapper.html url="<https://www.filepicker.io/api/file/KUpDbyKUQii3CMw3yU1i>" title="The Mozilla Leadership Network, Kaitlin Thaney" %}
 
-As you work through the training-- whether you're using our online interface or taking one of our in-person workshops-- there will be lots of opportunities to connect with both Mozilla staff and members of our leadership network.
+### Credits
 
-# {{ site.assignment }} Explore the Network
-
-[Browse Network Pulse](https://www.mozillapulse.org/), a stream of assets news and stories from the Mozilla network and communities, to find projects with a shared vision, audience, or strategy. This exploration will help you get a better sense of Mozilla's network and the connections you can make within it.
+- [1] [Richard Stallman and The History of Free Software and Open Source](http://www.cmpod.net/all-transcripts/history-open-source-free-software-text/)
