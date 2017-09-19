@@ -18,7 +18,7 @@ You'll need to install [Jekyll](https://jekyllrb.com/), [Ruby](https://www.ruby-
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to abby@mozillafoundation.org.
+We abide by the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
 
 ## Contributors
 

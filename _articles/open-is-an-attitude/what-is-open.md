@@ -100,6 +100,8 @@ Acting as an enabler of openness is another meaning of the term "open," and one 
 
 ### > Working
 
+Watch Kristie describe how working open, launched an her project's success.
+
 {% include videowrapper.html
   url="https://www.filepicker.io/api/file/383PaLJiSF68FFgvH5Qb"
   title="A Working Open Example - STEMM Role Models, Kirstie Whitaker" %}
@@ -115,7 +117,7 @@ Acting as an enabler of openness is another meaning of the term "open," and one 
 *How might you convince someone who feels protective of their idea/and or software project to begin working openly?*
 
 ## Open is Not
-![]({{site.baseurl}}/img/computer.jpg)
+![puter]({{site.baseurl}}/img/computer.jpg)
 
 *Photo via Internet Archive Book Images, no known restrictions.*
 
@@ -143,7 +145,7 @@ Creating appearances of being open to engage people for free labour, fake consul
 
 Review sections above, and consider what your answers to each of the questions (in italics) would be.
 
-## Credits
+## Attribution
 
 - [1] ['50 Shades of Open'](http://firstmonday.org/article/view/6360/5460) by Jeffrey Pomerantz and Robin Peek [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 - [2] Title from ['Open is a Noun, Verb, Adjective, and an Attitude'](http://clintlalonde.net/2012/10/18/open-is-a-noun-verb-adjective-and-an-attitude/) post by Clint LaLonde.

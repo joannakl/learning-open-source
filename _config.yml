@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/learning-open-source" # the subpath of your site, e.g. /blog
 url: "https://mozilla.github.io" # the base hostname & protocol for your site
 github:
-  repo: "emmairwin/open-source-clubs"
+  repo: "emmairwin/learning-open-source"
   branch: "gh-pages"
 
 
