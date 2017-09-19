@@ -14,9 +14,8 @@ format: >
 materials: Pencil and paper or a computer-- a way of recording your statement.
 ---
 
-- TOC {:toc}
-
-# What do we mean by 'Open'?
+* TOC
+{:toc}
 
 'Open' can be broken down to a variety of actions and attributes that together form an innovative ecosystem.
 
