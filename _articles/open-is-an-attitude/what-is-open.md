@@ -11,7 +11,7 @@ prereq: Have read the README
 format: >
   *   Read and watch videos on this topic, and consider answers to questions at the end of each section.
   assignment
-materials: Pencil and paper or a computer-- a way of recording your statement.
+materials: Pencil and paper or a computer-- a way of recording notes.
 ---
 
 * TOC
