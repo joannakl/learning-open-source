@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Your Project Vision"
+title: "Opening Your Future!"
 module: "1.4"
 date: 2016-10-06 14:05:56
 time: "15 mins"
-following: _articles/opening-your-project.md
+following: _articles/open-is-an-attitue/opening-your-project.md
 summary: "Articulate your big idea, vision or dream that you want to achieve by working open, and experiment with expressing your vision in a short format."
 prereq: "Have completed previous modules in this section"
 format: >

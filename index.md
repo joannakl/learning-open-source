@@ -2,13 +2,8 @@
 layout: home
 ---
 
-This Open Leadership Training Series teaches you best practices in “working open” -- a way of working where:
+Through a series of five modules, this Open Source Training Series teaches you important skills, knowledge and attitudes of Open Source
 
-* **_everyone_ is invited to collaborate on something amazing,**
-* **and any new product or knowledge is shared widely and freely.**
+- **Understand the 'open ecosystem' why it matters, and what it isn't.**
 
-This is for anyone starting up or leading open projects-- project leads, collaborators, or small groups of co-leaders responsible for project success and growth.
-
-
-
-
+This is for anyone interested in gaining deeper understanding of open source from ethics, to designing designing for participation and licensing.

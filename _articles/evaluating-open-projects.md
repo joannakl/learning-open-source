@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Opening Your Project
-module: 3
+title: Evaluating Open Projects!
+module: 2
 date: 2016-10-06T14:05:56.000Z
 contents:
-  - _articles/evaluating-open-projects/finding-your-project.md
+  - _articles/evalating-open-projects/finding-your-project.md
 following: _articles/readme.md
 ---
 
