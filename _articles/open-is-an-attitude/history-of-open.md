@@ -39,7 +39,7 @@ Mozilla injected competition, innovation and opportunity by opening the source c
 TODO: be exported to Teachable)
 Answer the following questions.
 
-1. According to Richard Stallman, what is the distinction between 'open source' and 'free software'?
+1. According to Richard Stallman, what is the distinction between 'open source' and 'free software' and what was Linus Benedict Torvalds, and Linux's role in triggering these terms?
 3. How is the story of Google Android a story of open source, and not free software?  (according to Stalman)
 4. What is Tim O'Reilly's argment about morality and software licensing?
 5. How did opening the source code enable the success of Firefox in a market dominated by Microsoft?
