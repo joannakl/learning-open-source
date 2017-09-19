@@ -12,4 +12,4 @@ following: _articles/readme.md
 
 ### Open is a Noun, Verb, Adjective - an Attitude!
 
-This module helps learners understand open as an ecosystem, the attributes of 'open'including what it  and how contribution to open source can be a valuable career move that also might save the world.
+This module guides learners in a journey to understand the attributes of open ecosystem as fuel for collaboration, innovation and as a tool for personal growth, and perhaps a way to save the world

@@ -6,11 +6,10 @@ date: 2016-10-06T14:05:56.000Z
 time: 20 mins
 following: _articles/open-is-an-attitude/history-of-open.md
 summary: >-
-  This module will explore a variety of concepts, actions and attributes of 'open' as an innovative ecosystem.
+  This module will explore a variety of concepts, actions and attributes that form open ecosystems as fuel for collaborative innovation.
 prereq: Have read the README
 format: >
   *   Read and watch videos on this topic, and consider answers to questions at the end of each section.
-  assignment
 materials: Pencil and paper or a computer-- a way of recording notes.
 ---
 
@@ -140,15 +139,12 @@ Creating appearances of being open to engage people for free labour, fake consul
 
 >Openwashing: n., having an appearance of open-source and open-licensing for marketing purposes, while continuing proprietary practices. [Audrey Watters](https://twitter.com/audreywatters/status/184387170415558656)
 
-## {{ site.assignment }}
-
-Review sections above, and consider what your answers to each of the questions (in italics) would be.
 
 ## Attribution
 
 - [1] ['50 Shades of Open'](http://firstmonday.org/article/view/6360/5460) by Jeffrey Pomerantz and Robin Peek [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 - [2] Title from ['Open is a Noun, Verb, Adjective, and an Attitude'](http://clintlalonde.net/2012/10/18/open-is-a-noun-verb-adjective-and-an-attitude/) post by Clint LaLonde.
-- [3][Open Access] (<https://opensource.com/resources/what-open-access>) by Opensource.com [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
+- [3][Open Access](<https://opensource.com/resources/what-open-access>) by Opensource.com [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 - [4][How to Work Open](https://openmatt.org/2011/04/06/how-to-work-open/) - Matt Thompson
-- [5][What is Open Source?](https://opensource.com/resources/what-open-source) opensource.com [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- [5] [What is Open Source?](https://opensource.com/resources/what-open-source) opensource.com [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - [6] [Open Washing](http://openwashing.org/)
