@@ -15,6 +15,8 @@ materials: Pencil and paper or a computer-- a way of recording notes.
 
 There are many things to consider when evaulating a project for participation.  As much as a project might sound inviting, it's important to apply critical evaulation.
 
+![tracks]({{site.baseurl}}/img/tracks.jpg)
+
 ### Two-Track Approach
 
 Before we get into project evaluation, consider which of these two tracks would suit your learning style, personality, skillset and time availble.
@@ -54,6 +56,7 @@ As part of your assignment in Module 1, you were asked to think about your motiv
 ### {{ site.assignment }} - Find a Project
 
 * Read [Finding Your Goldilocks Zone](https://github.com/trending) by Alaina Kafkes
+* Read [Don's Journey](https://blog.zgp.org/am-i-metal-yet/) on 'Track 1' setting up a Metalsmith blog.
 * Read [11 ways to get involved with HFOSS](https://opensource.com/life/15/2/getting-involved-hfoss)
 * [Read Github's 'Finding a Project to Contribute To'](https://opensource.guide/how-to-contribute/#finding-a-project-to-contribute-to).
 
