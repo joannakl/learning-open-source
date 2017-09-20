@@ -31,6 +31,8 @@ Watch this light introduction to open source, using a cooke recipe to represent 
 
 Open access refers to the practice of **making peer-reviewed scholarly research and literature freely available online** to anyone interested in reading it. Open access has two different versions--**gratis and libre**. The difference is the choice of copyright - with Gratis being 'read only', and Libre allowing distributing and reuse. [1]  
 
+Some free software advocates prefer also to use gratis & libre to more clearly define the difference.
+
 *Imagine the potential for scientific breakthroughs as more research is made openly available.*
 
 ### > Use
@@ -69,7 +71,7 @@ The term "open source" refers to something people can modify and share because i
 
 ### > Speech, Beer, Puppies
 
-'Free' has a few meanings in the context of open source. Free as in Beer refers to the cost of software, while 'Free as in Speech' refers to what you can do with the software. 'Free as in puppies' is also used to describe the cost of maintaining software.
+'Free' has a few meanings in the context of open source. **'Free as in Beer** refers to the cost of software, while **'Free as in Speech'** refers to what you can do with the software. **'Free as in puppies'** is also used to describe the cost of maintaining software.
 
 The Free Software Foundation (FSF) found it necessary to define what it means for software to be free. According to the Free Software Definition, four essential freedoms must exist for users of free software:
 
@@ -88,7 +90,7 @@ For all else, Open is an attitude - where innovation meets human determination t
 
 [Creative Commons](https://creativecommons.org/) did not develop the [Free Software Definition](https://www.gnu.org/philosophy/free-sw.en.html) or the [Open Source Definition](https://opensource.org/osd), or indeed any definition of what it means for particular types of resources to be open. Instead, Creative Commons developed a [set of licenses](https://creativecommons.org/licenses/) and an online tool to help with using these licenses. 
 
-In so doing, Creative Commons became a very powerful enabler of openness.  *This content contains CC licensed material, attributed at the end of this page.*
+In so doing, Creative Commons became a very **powerful enabler of openness**.  *This content contains CC licensed material, attributed at the end of this page.*
 
 ![openimg]({{site.baseurl}}/img/license.png)
 
