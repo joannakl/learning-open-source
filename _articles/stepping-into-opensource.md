@@ -4,8 +4,10 @@ title: Stepping Into Open Source
 module: 2
 date: 2016-10-06T14:05:56.000Z
 contents:
-  - _articles/evalating-open-projects/finding-your-project.md
+  - _articles/stepping-into-opensource/evaluating-open-projects.md
+  - _articles/stepping-into-opensource/licensing.md
+  - _articles/stepping-into-opensource/community_health.md
 following: _articles/readme.md
 ---
 
-This module helps learners understand the ecosystem and attributes of 'open', why it matters, and what it isn't by providing an overview of open source, and why contribution can be a valuable career move that also helps save the world.
+Stepping into an open source community can be intimidating! So many projects with so many moving parts it's hard to know where to begin! This module will provide students with tools and best practices for evaluating open source projects for contribution.

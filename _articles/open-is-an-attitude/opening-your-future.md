@@ -3,7 +3,7 @@ layout: page
 title: "Opening Your Future!"
 module: "1.3"
 date: 2016-10-06 14:05:56
-time: "15 mins"
+time: "45 mins"
 following: _articles/open-is-an-attitue/opening-your-project.md
 summary: "Articulate your vision or dream of what you want to achieve through participation and leadership in open source, and experiment with expressing your vision in a short format."
 prereq: "Have completed previous modules in this section"
@@ -54,7 +54,7 @@ Choose one of the following activities :
 TODO: add way to track this (Teachable or other)
 
 * **Interview someone** working in Open Source and write a blog post.
-* Fill out your own **[Open Source Career Map]**(https://docs.google.com/document/d/1u8G3cTYVBrSWcUIaU_m7Xixr3wlDS3rlBL4HvCzoPPw/edit#) and write a summary, either in a blog post or document.
+* Fill out your own **[Open Source Career Map](https://docs.google.com/document/d/1u8G3cTYVBrSWcUIaU_m7Xixr3wlDS3rlBL4HvCzoPPw/edit#)** and write a summary, either in a blog post or document.
 * **Write a Bot**!  Write a bot to manually look for open source keywords in a job posting, note which are in demand and report your findings.  *note: job postings are only one piece of understanding hirability in open source*
 
 

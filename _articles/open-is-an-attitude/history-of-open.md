@@ -57,7 +57,7 @@ Don Marti explains in his blog post ['Why Open Source Matters'](https://blog.zgp
     Fail: Compensation and burnout
     Opportunity:
 
-### {{ site.assignment }} 
+### {{ site.assignment }} Quiz
 TODO: be exported to Teachable)
 Answer the following questions.
 
@@ -66,9 +66,6 @@ Answer the following questions.
 4. What is Tim O'Reilly's argment about morality and software licensing?
 5. How did opening the source code enable the success of Firefox in a market dominated by Microsoft?
 6. Provide a real-life example of one movement in open source.
-
-### 
-
 
 ### Credits
 
