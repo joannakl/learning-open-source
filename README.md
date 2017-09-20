@@ -4,7 +4,7 @@ These learning modules where created by Mozilla, with community members, and par
 
 ## Contributing
 
-Thanks for your interest in contributing to the Open Leadership Training Series! There are many ways to contribute. To get started, take a look at
+Thanks for your interest in contributing to the Learning Open Source! There are many ways to contribute. To get started, take a look at
 
 <contributing.md>.</contributing.md>
 
