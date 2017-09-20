@@ -19,11 +19,13 @@ materials: "Pencil and paper or a computer-- a way of recording your assigment."
 
 ![art]({{site.baseurl}}/img/art.jpg)
 
-'Photo credit: MTSOfan via Visual hunt /  CC BY-NC-SA'
-
-### Inspiration
+'Photo credit: [MTSOfan via Visual hunt](https://visualhunt.com/photo/86305/) /  CC BY-NC-SA'
 
 Contributing to Open Source software is truly an opportunity to grow as an invidual, gain new skills, find unparralelled opportunity for leadership and perhaps to change the world in the process.  It can also be a tricky place to navigate various project norms, and personalities in the quest to achieving those goals.
+
+### Personal Inspiration
+
+Inspiration has many incarnations - we can find it in experiences, interaction and in opportunity.  Take some time to read through the stories of community listed below.
 
 >"**Contributing also makes me prioritize working on open source code**. I now understand just how cool it is to be able to "ping" an expert when you need help. For example, when we were building the user namespaces support into Docker, a kernel maintainer for namespaces commented on the pull request and made sure it was implemented correctly. It's so valuable for a project to not only have input from others but from the actual people who built what you are trying to integrate." - Jess Frazelle
 
@@ -35,6 +37,7 @@ Contributing to Open Source software is truly an opportunity to grow as an invid
 * Read [Why I love Contributing to Open Source](https://www.errietta.me/blog/open-source/) by Errietta Kostala
 
 ### Career
+Whether or not you have goals to work in open source, there's no doubt the experiences, skills and stories you build will influence not only your career success, but even where you choose to go from here. 
 
 * Read [7 Skills to Land Your Open Source Dream Job](https://opensource.com/business/14/4/open-source-job-skills) - [Jason Hibbits](https://opensource.com/users/jhibbets)
 
