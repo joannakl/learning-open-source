@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Technically Open
+title: Technically Speaking
 module: 4
 date: 2016-10-06T14:05:56.000Z
 contents:
