@@ -8,10 +8,10 @@ following: _articles/open-is-an-attitue/opening-your-project.md
 summary: "Articulate your vision or dream of what you want to achieve through participation and leadership in open source, and experiment with expressing your vision in a short format."
 prereq: "Have completed previous modules in this section"
 format: >
-  *   Read and watch videos on this topic
+  *   Read posts this topic
 
-  *   Complete a thinking/writing assignment
-materials: "Pencil and paper or a computer-- a way of recording your assigment."
+  *   Complete a coding OR thinking/writing assignment
+materials: "Pencil and paper or a computer-- a way of recording your assigment." 
 ---
 
 * TOC
@@ -50,6 +50,9 @@ Choose one of the following activities :
 
 TODO: add way to track this (Teachable or other)
 
-* Interview someone working in Open Source and write a blog post.
-* Fill out your own [Open Source Career Map](https://docs.google.com/document/d/1u8G3cTYVBrSWcUIaU_m7Xixr3wlDS3rlBL4HvCzoPPw/edit#) and write a summary, either in a blog post or document.
+* **Interview someone** working in Open Source and write a blog post.
+* Fill out your own **[Open Source Career Map]**(https://docs.google.com/document/d/1u8G3cTYVBrSWcUIaU_m7Xixr3wlDS3rlBL4HvCzoPPw/edit#) and write a summary, either in a blog post or document.
+* **Write a Bot**!  Write a bot to manually look for open source keywords in a job posting, note which are in demand and report your findings.  *note: job postings are only one piece of understanding hirability in open source*
+
+
 
