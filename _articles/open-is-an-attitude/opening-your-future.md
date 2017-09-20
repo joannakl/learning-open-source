@@ -11,7 +11,7 @@ format: >
   *   Read and watch videos on this topic
 
   *   Complete a thinking/writing assignment
-materials: "Pencil and paper or a computer-- a way of recording your statement."
+materials: "Pencil and paper or a computer-- a way of recording your assigment."
 ---
 
 * TOC
