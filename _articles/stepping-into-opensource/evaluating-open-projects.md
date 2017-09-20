@@ -3,19 +3,22 @@ layout: page
 title: Evaluating Open Projects
 module: '2.1'
 date: 2016-10-06T14:05:56.000Z
-time: 20 mins
+time: 1 hour +
 following: _articles/stepping_into_opensource/licsensing.md
 summary: >-
  This module will provide learners with tools and  best practices for evaluating open source projects for contribution.
 prereq: Have read the completed Module 1.
 format: >
-  *   Read and watch videos on this topic, and consider answers to questions at the end of each section.
+  *   Read articles, and use what you learn to identify open projects that match your goals.
 materials: Pencil and paper or a computer-- a way of recording notes.
 ---
 
 There are many things to consider when evaulating a project for participation.  As much as a project might sound inviting, it's important to apply critical evaulation.
 
 ![tracks]({{site.baseurl}}/img/tracks.jpg)
+
+* TOC
+{:toc}
 
 ### Two-Track Approach
 
@@ -64,9 +67,6 @@ Select the track you prefer, and use the checklist provided in Github's [Finding
 
 TODO: indicate where this is shared kept.
 
-*Bonus: If you choose the Open Source Career Map from Module 1, you can use that as a tool for selecting a project as well :)*
+*Bonus: If you choose the [Open Source Career Map](https://docs.google.com/document/d/1u8G3cTYVBrSWcUIaU_m7Xixr3wlDS3rlBL4HvCzoPPw/edit#heading=h.oc32cqkvrlxk) from Module 1, you can use that as a tool for selecting a project as well :)*
 
-
-* TOC
-{:toc}
 
