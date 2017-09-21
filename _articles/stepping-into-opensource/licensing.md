@@ -17,18 +17,27 @@ format: >
 * TOC
 {:toc}
 
-There's a lot, and a little to know about Open Source Licensing - and it can feel overwhelming, and intimidating. This section will help you establish a basic understanding, while providing practical exercises to learn by doing.
+There's a lot, and a little to know about Licensing - and it can feel overwhelming, and intimidating. This section will help you establish a basic understanding, while providing practical exercises to learn by doing.
 
 ### {{ site.video }} “A Crash Course in Open Source Licensing"
 
 [![Watch the video](https://img.youtube.com/vi/cJIi-hIlCQM/0.jpg)](https://www.youtube.com/watch?v=cJIi-hIlCQM&t=10s) 
 
-### Creative Commons
-TODO:(waiting for DB error to be resolved here:  https://certificates.creativecommons.org/core/v022/contents/licenses/overview/)
+### {{ site.video }} How Does the Commons Work?
+
+>"A Creative Commons (CC) license is one of several public copyright licenses that enable the free distribution of an otherwise copyrighted work. A CC license is used when an author wants to give people the right to share, use, and build upon a work that they have created." - [Creative Commons - Wikipedia](https://en.wikipedia.org/wiki/Creative_Commons_license)
+
+Within open source projects, there are often multiple uses of Creative Commons lincense.
+
+[![Watch the video](https://img.youtube.com/vi/7bQiBcd7mBc/0.jpg)](https://www.youtube.com/watch?v=7bQiBcd7mBc&t=10s) 
+
+*“How Does the Commons Work?” by [The Next System](https://www.youtube.com/channel/UC0Gw_ZWRG2eY_hPkAL7eNZg) Project licensed under CC-BY*
 
 ### Contributor License Agreement
 
 From time to time you will see something called a '[Contributor License Agreement](https://en.wikipedia.org/wiki/Contributor_License_Agreement)'(CLA) as a prequisite to contributing to an open project.  
+
+Read [this page](https://creativecommons.org/licenses/) for more on Creative Commons licenses (what they are, what they mean).
 
 
 TODO: Get some clear points about what a CLA is/is not and when you should be concerned

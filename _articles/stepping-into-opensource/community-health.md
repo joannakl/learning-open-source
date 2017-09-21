@@ -9,8 +9,7 @@ summary: >-
   This section will explore community health as both a criteria for particpation in open source, and a responsiblity.
 prereq: Have read previous 2 sections of this module.
 format: >
-  *   Read and watch videos on this topic, and consider answers to questions at the end of each section.
-materials: Pencil and paper or a computer-- a way of recording notes.
+  *   Complete reading on this topic, and take associated quiz.
 ---
 
 ![health]({{site.baseurl}}/img/eye.jpg)
@@ -27,18 +26,25 @@ And like any gathering of humans, be it family, a group of colleagues, a sports 
 
 **Unhealthy communities deter diverse participation and ultimately stiffle innovation.**
 
-That's where a Code of Conduct comes into play. 
+That's where a [Code of Conduct comes into play. 
 
 >A Code of Conduct is an agreement outlining expectations for community participation, including what is acceptable, unacceptable and behaviors all community members should aspire to - with a clear reporting process for violations.
 
+Here are some examples of open source community Codes of Conduct:
+
+* [Kubernetes](https://github.com/cncf/foundation/blob/master/code-of-conduct.md)
+* [GoLang](https://golang.org/conduct)
+* [Rust](https://www.rust-lang.org/en-US/conduct.html)
+
 What I want you to know is that, **without enforcement a Code of Conduct means nothing**.  Without enforcement, and modeling of healthy behavior by community leaders -  what we see is that more assertive individuals, and that those with percieved clout tend to dominate discussion. It is your role as a community member to not only abide by CoC, but to look out for others as well.  A healthy community is everyone's responsibility.
 
-### {{ site.assignment }}
+### {{ site.assignment }} Reading & Quiz
 
-1. Read ['What Makes a Good Community'](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/) by Sarah Sharp.
-2. [Review Mozilla's Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
-3. Review [Geek Feminism's Timeline of Incidents](http://geekfeminism.wikia.com/wiki/Timeline_of_incidents) to get a sense of struggles in communities over the years, online and in person.
-4. Take this Quiz(TODO put in TEACABLE)
+1. What ways can you think of to help a community feel more welcoming (even if you are just joining?).
+2. Read ['What Makes a Good Community'](http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/) by Sarah Sharp.
+3. [Review Mozilla's Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
+4. Review [Geek Feminism's Timeline of Incidents](http://geekfeminism.wikia.com/wiki/Timeline_of_incidents) to get a sense of struggles in communities over the years, online and in person.
+5. Take this Quiz(TODO put in TEACABLE)
 	* Which of these sections is *not* part of a Code of Conduct?  (accetable behavior, unacceptable behavior, reporting, exceptions)
 	* Who is responsible for reporting violations to the code of conduct?  (victim, bystander)
 	* How might you help a community be a more welcoming place?
