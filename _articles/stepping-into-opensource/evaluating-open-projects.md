@@ -4,7 +4,7 @@ title: Evaluating Open Projects
 module: '2.1'
 date: 2016-10-06T14:05:56.000Z
 time: 1 hour +
-following: _articles/stepping_into_opensource/licsensing.md
+following: _articles/stepping-into-opensource/licensing.md
 summary: >-
  This module will provide learners with tools and  best practices for evaluating open source projects for contribution.
 prereq: Have read the completed Module 1.
@@ -13,12 +13,15 @@ format: >
 materials: Pencil and paper or a computer-- a way of recording notes.
 ---
 
-There are many things to consider when evaulating a project for participation.  As much as a project might sound inviting, it's important to apply critical evaulation.
 
 ![tracks]({{site.baseurl}}/img/tracks.jpg)
 
+* Photo by [Dmitrii Vaccinium via Visualhunt.com](https://visualhunt.com/p/dmitrii-vaccinium/)
+
 * TOC
 {:toc}
+
+There are many things to consider when evaulating a project for participation.  As much as a project might sound inviting, it's important to apply critical evaulation.
 
 ### Two-Track Approach
 
