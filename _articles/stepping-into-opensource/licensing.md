@@ -23,6 +23,8 @@ There's a lot, and a little to know about Open Source Licensing - and it can fee
 
 [![Watch the video](https://img.youtube.com/vi/cJIi-hIlCQM/0.jpg)](https://www.youtube.com/watch?v=cJIi-hIlCQM&t=10s) 
 
+### {{ site.assignment }} Understand that License!
+
 1. Identify the Licenses for each of your chosen projects from the previous activity.
 AND/OR... these projects:
 	* [Open MRS](https://github.com/openmrs/openmrs-core)
