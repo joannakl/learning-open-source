@@ -6,7 +6,7 @@ date: 2016-10-06T14:05:56.000Z
 contents:
   - _articles/stepping-into-opensource/evaluating-open-projects.md
   - _articles/stepping-into-opensource/licensing.md
-  - _articles/stepping-into-opensource/community_health.md
+  - _articles/stepping-into-opensource/community-health.md
 following: _articles/readme.md
 ---
 
