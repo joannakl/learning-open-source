@@ -19,7 +19,7 @@ format: >
 
 There's a lot, and a little to know about Open Source Licensing - and it can feel overwhelming, and intimidating. This section will help you establish a basic understanding, while providing practical exercises to learn by doing.
 
-{{ site.video }} “A Crash Course in Open Source Licensing"
+### {{ site.video }} “A Crash Course in Open Source Licensing"
 
 [![Watch the video](https://img.youtube.com/vi/cJIi-hIlCQM/0.jpg)](https://www.youtube.com/watch?v=cJIi-hIlCQM&t=10s) 
 
