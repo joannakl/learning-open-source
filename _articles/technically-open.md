@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Technically Open
-module: 2
+module: 4
 date: 2016-10-06T14:05:56.000Z
 contents:
   - _articles/technically-open/basics.md

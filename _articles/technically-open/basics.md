@@ -3,14 +3,14 @@ layout: page
 title: Technical Basics
 module: '4.1'
 date: 2016-10-06T14:05:56.000Z
-time: 30 mins
+time: 90 mins
 following: _articles/technically_open/github.md
 summary: This section will provide learners with basic knowledge of technical and communication tools most often used in open source projects.
 prereq: Have completed previous 3 modules
 format: '*   Complete reading on this topic, and take associated quiz.'
 ---
 
-![tech]({{site.baseurl}}/img/wecancodeit.jpg)
+![tech]({{site.baseurl}}/img/wecancodeit.jpeg)
 
 ### Command Line Confidence
 
@@ -32,6 +32,7 @@ Additionally communities are starting to experiment with other communication nor
 
 Often communication solutions are no longer tied to a single platform, and instead a web of tools are tied together via 'briges' between tools like [Sameroom](https://sameroom.io/blog/connecting-a-channel-in-slack-to-a-channel-irc/).  Still more projects limit their dicussions to issue trackers.
 
+### TODO norms of open source comms
 
 ### {{activity}} IRC Basics
 
