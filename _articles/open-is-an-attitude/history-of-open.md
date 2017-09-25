@@ -25,7 +25,6 @@ format: |
 
 ### {{ site.video }} The Mozilla Story: Making The World You Want
 
-
 It's easy to forget, that not that long ago, a single company controlled the majority of software and hardware - that open was something mostly associated with 'basement hackers' and that as a open source business model was considered laughable.   Enter Mozilla Firefox 1.0.
 
 ![nyt-ad-2004]({{site.baseurl}}/img/nyt_ad_2004.png)

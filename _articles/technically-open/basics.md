@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Technical Basics
-module: '4.1'
+module: '3.1'
 date: 2016-10-06T14:05:56.000Z
 time: 90 mins
 following: _articles/technically_open/github.md
@@ -12,7 +12,10 @@ format: '*   Complete readings and activities on this topic.'
 
 ![tech]({{site.baseurl}}/img/wecancodeit.jpeg)
 
-[We Can Code It](https://www.flickr.com/photos/tsevis/14456896435/in/photolist-o2vnD6-Lp4VW-6NFMp7-ec11YQ-5VKcCj-nfPx72-de4ZYg-9XB4d8-e1JEY-4U2GPi-79EVn6-bpd8Ht-6xfvm9-fyFb6r-2Poor-uiDzGE-9M8VWm-ccQ6rL-75cgcM-59ib1t-7Gyyds-72eCPm-9UNeUM-jeEhot-ptJh3V-as7QVk-asasy3-Mdf4-an5Vin-KnCK4-4usG5p-8oqjS1-GH7wh-8jU3VG-ec78kF-gPYA7-b7r6g-i3fCgz-i3e73w-6nPUhb-5Y5QPG-6fmKyW-kmhEbE-89ZXVw-dLUWMb-d9A4Eb-7d7ipd-3AvBtV-4nqiZn-BVDt2) — CC BY-NC-ND 2.0 by [Charis Tsevis](https://www.flickr.com/photos/tsevis/]
+[We Can Code It](https://www.flickr.com/photos/tsevis/14456896435/in/photolist-o2vnD6-Lp4VW-6NFMp7-ec11YQ-5VKcCj-nfPx72-de4ZYg-9XB4d8-e1JEY-4U2GPi-79EVn6-bpd8Ht-6xfvm9-fyFb6r-2Poor-uiDzGE-9M8VWm-ccQ6rL-75cgcM-59ib1t-7Gyyds-72eCPm-9UNeUM-jeEhot-ptJh3V-as7QVk-asasy3-Mdf4-an5Vin-KnCK4-4usG5p-8oqjS1-GH7wh-8jU3VG-ec78kF-gPYA7-b7r6g-i3fCgz-i3e73w-6nPUhb-5Y5QPG-6fmKyW-kmhEbE-89ZXVw-dLUWMb-d9A4Eb-7d7ipd-3AvBtV-4nqiZn-BVDt2) — CC BY-NC-ND 2.0 by [Charis Tsevis](https://www.flickr.com/photos/tsevis/)
+
+* TOC
+{:toc}
 
 ### Command Line Confidence
 
@@ -22,9 +25,10 @@ If you are not yet familiar, or comfortable with using command line tools, this 
 
 1. Complete one of the following:
 	* [Learn The Command Line](https://ryanstutorials.net/linuxtutorial/)  - for those with Linux of Macs who want to learn command line on their own machines.
-  * Code Acadamy's ['Your First Command Line'](https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command?action=lesson_resume).
+	* Code Acadamy's ['Your First Command Line'](https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command?action=lesson_resume).
+ 
 
-### Communication Norms & Trends
+### Communication Tools & Trends
 
 Historically open source projects lean on tools like [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) and mailing lists, [Mediawiki](https://www.mediawiki.org/wiki/Code_of_Conduct#Appealing_a_resolution) and forums like [Discourse](https://discourse.mozilla-community.org/)  (which is open source) for communication and tracking documentation.  
 
