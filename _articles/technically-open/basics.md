@@ -7,16 +7,18 @@ time: 90 mins
 following: _articles/technically_open/github.md
 summary: This section will provide learners with basic knowledge of technical and communication tools most often used in open source projects.
 prereq: Have completed previous 3 modules
-format: '*   Complete reading on this topic, and take associated quiz.'
+format: '*   Complete readings and activities on this topic.'
 ---
 
 ![tech]({{site.baseurl}}/img/wecancodeit.jpeg)
+
+[We Can Code It](https://www.flickr.com/photos/tsevis/14456896435/in/photolist-o2vnD6-Lp4VW-6NFMp7-ec11YQ-5VKcCj-nfPx72-de4ZYg-9XB4d8-e1JEY-4U2GPi-79EVn6-bpd8Ht-6xfvm9-fyFb6r-2Poor-uiDzGE-9M8VWm-ccQ6rL-75cgcM-59ib1t-7Gyyds-72eCPm-9UNeUM-jeEhot-ptJh3V-as7QVk-asasy3-Mdf4-an5Vin-KnCK4-4usG5p-8oqjS1-GH7wh-8jU3VG-ec78kF-gPYA7-b7r6g-i3fCgz-i3e73w-6nPUhb-5Y5QPG-6fmKyW-kmhEbE-89ZXVw-dLUWMb-d9A4Eb-7d7ipd-3AvBtV-4nqiZn-BVDt2) — CC BY-NC-ND 2.0 by [Charis Tsevis](https://www.flickr.com/photos/tsevis/]
 
 ### Command Line Confidence
 
 If you are not yet familiar, or comfortable with using command line tools, this section is not only important for your open source goals, but key enabler of confidence and effectiveness in your early steps.
 
-### {{activity}} Command Line Basics
+### {{ site.assignment }} Command Line Basics
 
 1. Complete one of the following:
 	* [Learn The Command Line](https://ryanstutorials.net/linuxtutorial/)  - for those with Linux of Macs who want to learn command line on their own machines.
@@ -34,9 +36,9 @@ Often communication solutions are no longer tied to a single platform, and inste
 
 ### TODO norms of open source comms
 
-### {{activity}} IRC Basics
+### {{ site.assignment }} Communication
 
-1. Complete this [IRC tutorial](), and connect to one of these community IRC channels to say hello.
+1. Complete this [IRC tutorial](), and connect to one of these community IRC channels on [Freenode](https://freenode.net/) to say hello.
  * #openstack101
  * #wikipedia
  * #drupal
