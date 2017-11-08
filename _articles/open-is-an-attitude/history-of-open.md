@@ -8,10 +8,9 @@ following: _articles/open-is-an-attitude/opening-your-future.md
 summary: >-
   This section explores important moments in the open source history and it's influence on the rich ecosystem we see today.
 prereq: |
-  * Have completed previous modules in this section
+  * Have completed previous chapter: Open is an Attitude.
 format: |
   * Read content and watch videos on this topic
-  * Complete the short quiz
 ---
 
 * TOC
@@ -41,30 +40,35 @@ Don Marti explains in his blog post ['Why Open Source Matters'](https://blog.zgp
 > “In short, the effect on security of open source software is still a major debate in the security community, though a large number of prominent experts believe that it has great potential to be more secure.” -  [David A. Wheeler](https://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO/open-source-security.html)
 >  
      Fail: Software Quality
-     Opportunity:
+     Opportunity: Building software we can be proud of
 
 #### Internet freedom campaign
 > “My free software will respect users or it will be bullshit” — [Matthew Garrett](https://mjg59.dreamwidth.org/32686.html)
 >  
      Fail: Diversity and inclusion
-     Opportunity:
+     Opportunity: Build the power structures you want
 
 #### Economic movement
 
 > “Linux Foundation certifications give you a way to differentiate yourself in a job market that’s hungry for your skills.” — [Linux Foundation](https://training.linuxfoundation.org/certification)
-> 
+>
     Fail: Compensation and burnout
-    Opportunity:
+    Opportunity: Hiring, discoverability and incentivization
 
-### {{ site.assignment }} Quiz
-TODO: be exported to Teachable)
+
+### {{ site.assignment }}  Quiz
+
 Answer the following questions.
 
 1. According to Richard Stallman, what is the distinction between 'open source' and 'free software' and what was Linus Benedict Torvalds, and Linux's role in triggering these terms?
 3. How is the story of Google Android a story of open source, and not free software?  (according to Stalman)
-4. What is Tim O'Reilly's argment about morality and software licensing?
+4. What is Tim O'Reilly's argument about morality and software licensing?
 5. How did opening the source code enable the success of Firefox in a market dominated by Microsoft?
 6. Provide a real-life example of one movement in open source.
+
+### {{ site.assignment }}  Activity
+
+3 movements of open source  activity
 
 ### Credits
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open is... an Attitude!
+title: Open is a noun, verb, adjective... an attitude!
 module: 1
 date: 2016-10-06T14:05:56.000Z
 contents:
@@ -10,6 +10,4 @@ contents:
 following: _articles/open-is-an-attitude/what-is-open.md
 ---
 
-# Open is a Noun, Verb, Adjective - an Attitude!
-
-This module guides learners in a journey to understand the attributes of open ecosystem as fuel for collaboration, innovation and as a tool for personal growth, and perhaps a way to save the world
+This module guides learners in a journey to understand the attributes of open ecosystem as fuel for collaboration, innovation and as a tool for personal growth, and perhaps a way to save the world.

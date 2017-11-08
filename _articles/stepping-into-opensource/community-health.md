@@ -20,13 +20,14 @@ format: >
 {:toc}
 
 ### Open Source is Made of Humans
+
 We've talked a lot about 'open'. We've run through attributes that make a project most likely to be accessible for new contributors.  But, at the core of everything, and I mean everything, is that **open source is about people, solving problems for people together**.
 
-And like any gathering of humans, be it family, a group of colleagues, a sports teams - interacting can be challenging at times. A set of unhealthy 'norms' can be established accidently when we neglect to be explicit about how we want our communities to interact and which can lead toxic communities.
+And like any gathering of humans, be it family, a group of colleagues, a sports teams - interacting can be challenging at times. A set of unhealthy 'norms' can be established accidentally when we neglect to be explicit about how we want our communities to interact and which can lead toxic communities.
 
 **Unhealthy communities deter diverse participation and ultimately stiffle innovation.**
 
-That's where a [Code of Conduct comes into play. 
+That's where a [Code of Conduct comes into play.
 
 >A Code of Conduct is an agreement outlining expectations for community participation, including what is acceptable, unacceptable and behaviors all community members should aspire to - with a clear reporting process for violations.
 
@@ -36,7 +37,7 @@ Here are some examples of open source community Codes of Conduct:
 * [GoLang](https://golang.org/conduct)
 * [Rust](https://www.rust-lang.org/en-US/conduct.html)
 
-What I want you to know is that, **without enforcement a Code of Conduct means nothing**.  Without enforcement, and modeling of healthy behavior by community leaders -  what we see is that more assertive individuals, and that those with percieved clout tend to dominate discussion. It is your role as a community member to not only abide by CoC, but to look out for others as well.  A healthy community is everyone's responsibility.
+What I want you to know is that, **without enforcement a Code of Conduct means nothing**.  Without enforcement, and modeling of healthy behavior by community leaders -  what we see is that more assertive individuals, and that those with perceived clout tend to dominate discussion. It is your role as a community member to not only abide by CoC, but to look out for others as well.  A healthy community is everyone's responsibility.
 
 ### {{ site.assignment }} Reading & Quiz
 
@@ -48,4 +49,3 @@ What I want you to know is that, **without enforcement a Code of Conduct means n
 	* Which of these sections is *not* part of a Code of Conduct?  (accetable behavior, unacceptable behavior, reporting, exceptions)
 	* Who is responsible for reporting violations to the code of conduct?  (victim, bystander)
 	* How might you help a community be a more welcoming place?
-	
