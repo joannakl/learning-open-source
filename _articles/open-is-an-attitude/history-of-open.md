@@ -6,7 +6,6 @@ date: 2016-10-06T14:05:56.000Z
 time: 1 hour
 following: _articles/open-is-an-attitude/opening-your-future.md
 summary: >-
-  This section explores important moments in the open source history and it's influence on the rich ecosystem we see today.
 prereq: |
   * Have completed previous chapters in this module
 format: |
@@ -18,6 +17,8 @@ format: |
 
 ### Free Software Foundation
 
+![fsf]({{site.baseurl}}/img/fsf.jpg)
+
 > In the early 1980’s Richard Stallman founded the Free Software Foundation: a socio-technological movement that revolutionized the software world. Stallman and Tim O’Reilly – a pioneer of Open Source – tell the story. [[1]](#history-stallman)
 
 [Listen to this Podcast, or read the transcript](https://www.cmpod.net/history_of_open_source_pt1/) (both linked on page) of Tim O'Reilly's interview with Richard Stallman.
@@ -26,8 +27,7 @@ format: |
 
 Not that long ago, a single company(Microsoft) controlled the majority of software and hardware - that 'open' was something mostly associated with 'basement hackers' and that as a open source business model was considered laughable.   
 
-
-[[Placeholder for graphic of MS marketshare]]
+![marketshare]({{site.baseurl}}/img/marketshare.png)
 
 **Enter Mozilla Firefox 1.0.**
 

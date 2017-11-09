@@ -10,7 +10,7 @@ prereq: "Have completed previous chapters in this section"
 format: >
   *   Read posts this topic
 
-  *   Complete a coding OR thinking/writing assignment
+  *   Complete your Open Source Career Map activity.
 materials: "Pencil and paper or a computer-- a way of recording your assignment."
 ---
 
