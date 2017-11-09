@@ -3,14 +3,14 @@ layout: page
 title: The History and Future of Open Source
 module: '1.2'
 date: 2016-10-06T14:05:56.000Z
-time: 45 mins
+time: 1 hour
 following: _articles/open-is-an-attitude/opening-your-future.md
 summary: >-
   This section explores important moments in the open source history and it's influence on the rich ecosystem we see today.
 prereq: |
   * Have completed previous chapters in this module
 format: |
-  * Read content and watch videos on this topic
+  * Read listen to podcast, watch video and read content on this topic
 ---
 
 * TOC
