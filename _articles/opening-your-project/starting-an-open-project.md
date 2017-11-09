@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Starting an Open Project
+title: Planning & Visualization
 module: '4.1'
 date: 2016-10-06T14:05:56.000Z
 time: 20 mins
