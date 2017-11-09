@@ -9,29 +9,27 @@ summary: >-
   This section will explore a variety of concepts, actions and attributes of the open ecosystem.
 prereq: Have read the README
 format: >
-  *   Read and watch videos on this topic, and consider answers to questions at the end of each section.
+  *   Read and watch videos on this topic, and expore the open as an activity.
 materials: Pencil and paper or a computer-- a way of recording notes.
 ---
 
 * TOC
 {:toc}
 
-**'Open' is not a one dimensional, nor is it something you can point to specifically - rather it is a a rich and innovative ecosystem enabled by a variety of actions and attributes.**
+**'Open' is not one dimensional, nor is it something you can point to specifically - rather it is a a rich and innovative ecosystem enabled by a variety of actions and attributes.**
 
 Watch this light introduction to open source, using a cooke recipe to represent software, licensing and collaboration.
 
-#### {{ site.video }} Endless Possibilities
+### {{ site.video }} Endless Possibilities
 
 [![Watch the video](https://img.youtube.com/vi/Tyd0FO0tko8/0.jpg)](https://www.youtube.com/watch?v=Tyd0FO0tko8)
 
-## Open is a Verb
+### Open is a Verb
 **Open is truly a decision**, and purposeful **action** - one that invites others in to collaborate, innovate and build together.
 
 **>> Access**
 
-Open access refers to the practice of **making peer-reviewed scholarly research and literature freely available online** to anyone interested in reading it. Open access has two different versions--**gratis and libre**. The difference is the choice of copyright - with Gratis being 'read only', and Libre allowing distributing and reuse. [1]  
-
-Some free software advocates prefer also to use gratis & libre to more clearly define the difference.
+Open access refers to the practice of **making peer-reviewed scholarly research and literature freely available online** to anyone interested in reading it. Open access has two different versions--**gratis and libre**. The difference is the choice of copyright - with Gratis being 'read only', and Libre allowing distributing and reuse. [[1]](#50-shades-of-open)
 
 *Imagine the potential for scientific breakthroughs as more research is made openly available.*
 
@@ -43,14 +41,14 @@ Some free software advocates prefer also to use gratis & libre to more clearly d
 Consider your assumptions about use, and what explicit restrictions you have seen in licencsed software or content.
 
 
-## Open is an Adjective
-Open is often how we describe *the way we work, and create*.
+### Open is an Adjective
+**Open is how we describe *the way we work, and create**.
 
 **>> Transparent**
 
 Working in the open can mean many things, primarily it means 'making your work visible', and how people interact with that work will actually begin your journey of open.  Working more openly is also about making decision-making processes, and governance open for others to co-design.
 
-> The main value of working open is reducing transaction cost, administration, and collaborative friction with smart communities of peers. That's different than over-relying on the casually offered opinions of whoever shows up, or waiting for the crowd to do your work or solve your problems for you." - Matt Thompson [4].
+> The main value of working open is reducing transaction cost, administration, and collaborative friction with smart communities of peers. That's different than over-relying on the casually offered opinions of whoever shows up, or waiting for the crowd to do your work or solve your problems for you." - Matt Thompson [[4]](#how-to-work-open).
 >
 
 *What ways can you be more transparent in your development workflow? How might you hold yourself accountable for being open?*
@@ -59,16 +57,16 @@ Working in the open can mean many things, primarily it means 'making your work v
 
 Working openly, you might assume, enables project participation - but **engaging diverse perspectives, ways of working and enabling success project -  endeavor requires purposeful engagement**.
 
-> The 2009 "Memorandum on Transparency and Open Government" emphasizes transparency, participation, and collaboration. Much of the emphasis of open government is on transparency, but information about what the government is doing is meaningless without the ability for citizens to then act on that information to exert influence on the government. This, of course, is almost a definition of participatory democracy.[1]
+> The 2009 "Memorandum on Transparency and Open Government" emphasizes transparency, participation, and collaboration. Much of the emphasis of open government is on transparency, but information about what the government is doing is meaningless without the ability for citizens to then act on that information to exert influence on the government. This, of course, is almost a definition of participatory democracy.[[1]](#50-shades-of-open)
 
 * What ways might a project deter participation even if their work is openly shared?*
 
-## Open is a Noun
+### Open is a Noun
 
 
 **>> Source**
 
-The term "open source" refers to something people can modify and share because its design is publicly accessible.[5]
+The term "open source" refers to something people can modify and share because its design is publicly accessible.[5](#what-is-opensource)
 
 **>>Speech, Beer, Puppies**
 
@@ -79,11 +77,11 @@ The Free Software Foundation (FSF) found it necessary to define what it means fo
 - **Freedom 0**: The freedom to run the program as you wish, for any purpose.
 - **Freedom 1**: The freedom to study how the program works, and change it so it does your computing as you wish.
 - **Freedom 2**: The freedom to redistribute copies so you can help your neighbor.
-- **Freedom 3**: The freedom to distribute copies of your modified versions to others. [1]
+- **Freedom 3**: The freedom to distribute copies of your modified versions to others. [[1]](#50-shades-of-open)
 
 *Can you think of free beer, speech and puppy examples in your life?*
 
-## Open is an Attitude
+### Open is an Attitude
 
 For all else, Open is an attitude - where innovation meets human determination to free ideas, and invite in diverse perspectives for the benefit of humanity: health, science, research, technology to name only a few.
 
@@ -95,7 +93,7 @@ In so doing, Creative Commons became a very **powerful enabler of openness**.  *
 
 ![openimg]({{site.baseurl}}/img/license.png)
 
-*Being an enabler of openness* is another meaning of the term "open," and one that is somewhat more oblique than those that have been discussed so far. "Open" in this sense does not, like open source or open access, refer to a specific type of resource. **Rather, it refers to a set of affordances (Gibson, 2014), either technical or legal, for a specific type of resource, of which a user may make use[1]**.
+*Being an enabler of openness* is another meaning of the term "open," and one that is somewhat more oblique than those that have been discussed so far. "Open" in this sense does not, like open source or open access, refer to a specific type of resource. **Rather, it refers to a set of affordances (Gibson, 2014), either technical or legal, for a specific type of resource, of which a user may make use [[1]](#50-shades-of-open)**.
 
 *How have you seen Creative Commons licenses enabling open work (hint, you can find it in this page :)*
 
@@ -113,11 +111,11 @@ Watch Kristie describe how working open, launched an her project's success.
 - **agility**. speed. flexibility. getting shit done.
 - **momentum**. communities want to push boulders that are already rolling.
 - **testing and rapid prototyping**. iterating and refining as we go.
-- **leverage**. getting greater bang from limited resources. punching above our weight.[4]
+- **leverage**. getting greater bang from limited resources. punching above our weight.[[4]](#how-to-work-open)
 
 *How might you convince someone who feels protective of their idea/and or software project to begin working openly?*
 
-## Open is Not
+### Open is Not
 ![puter]({{site.baseurl}}/img/computer.jpg)
 
 *Photo via Internet Archive Book Images, no known restrictions.*
@@ -131,7 +129,7 @@ Creating appearances of being open to engage people for free labour, fake consul
 >
 >- **public performance**. creating the fake appearance of consultation.
 - **endless opinion-sharing**. never-ending "feedback." bike-shedding.
-- **magic "crowd-sourcing."** crowds aren't smart -- communities of peers are. [4] Matt Thompson>
+- **magic "crowd-sourcing."** crowds aren't smart -- communities of peers are. [[4]](#how-to-work-open) Matt Thompson>
 
 *How would you recognize exploitation of open?  Can you think of any examples?*
 
@@ -142,12 +140,20 @@ Creating appearances of being open to engage people for free labour, fake consul
 
 >Openwashing: n., having an appearance of open-source and open-licensing for marketing purposes, while continuing proprietary practices. [Audrey Watters](https://twitter.com/audreywatters/status/184387170415558656)
 
+### {{ site.assignment }} - Explore the Open
 
-## Attribution
+Navigate the web looking for examples of:
+* People working openly
+* The use of Creative Commons licenses
+* Open Source code
+* Open Washing
+* Open Access
 
-- [1] ['50 Shades of Open'](http://firstmonday.org/article/view/6360/5460) by Jeffrey Pomerantz and Robin Peek [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
-- [2] Title from ['Open is a Noun, Verb, Adjective, and an Attitude'](http://clintlalonde.net/2012/10/18/open-is-a-noun-verb-adjective-and-an-attitude/) post by Clint LaLonde.
-- [3][Open Access](<https://opensource.com/resources/what-open-access>) by Opensource.com [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
-- [4][How to Work Open](https://openmatt.org/2011/04/06/how-to-work-open/) - Matt Thompson
-- [5] [What is Open Source?](https://opensource.com/resources/what-open-source) opensource.com [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- [6] [Open Washing](http://openwashing.org/)
+### Attribution
+
+- <a name="50-shades-of-open"></a>[1]['50 Shades of Open'](http://firstmonday.org/article/view/6360/5460) by Jeffrey Pomerantz and Robin Peek [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
+- <a name="noun-verb-attitude"></a>[2] Title from ['Open is a Noun, Verb, Adjective, and an Attitude'](http://clintlalonde.net/2012/10/18/open-is-a-noun-verb-adjective-and-an-attitude/) post by Clint LaLonde.
+- <a name="open-access"></a>[3][Open Access](<https://opensource.com/resources/what-open-access>) by Opensource.com [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
+- <a name="how-to-work-open"></a>[4][How to Work Open](https://openmatt.org/2011/04/06/how-to-work-open/) - Matt Thompson
+- <a name="what-is-opensource"></a>[5] [What is Open Source?](https://opensource.com/resources/what-open-source) opensource.com [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- <a name="open-washing"></a>[6] [Open Washing](http://openwashing.org/)
