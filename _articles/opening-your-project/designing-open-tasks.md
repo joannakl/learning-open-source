@@ -10,6 +10,9 @@ prereq:
 format: '* Reading & project task creation'
 ---
 ![openimg]({{site.baseurl}}/img/scientist.jpg)
+
+hoto credit: pixbymaia via Visual Hunt /  CC BY-NC-SA
+
 * TOC
 {:toc}
 
