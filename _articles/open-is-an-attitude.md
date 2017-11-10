@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open is a noun, verb, adjective... an attitude!
+title: Open in an Attitude!
 module: 1
 date: 2016-10-06T14:05:56.000Z
 contents:

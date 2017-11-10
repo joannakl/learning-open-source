@@ -20,17 +20,18 @@ You'll need to install [Jekyll](https://jekyllrb.com/), [Ruby](https://www.ruby-
 
 We abide by the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
 
-#### Contributors
+#### Content Contributors
 
 TODO: LINK & Add full names
 
-- Heidi Ellis
-- Don Marti
-- Greg McVerry
+- [Heidi Ellis]()
+- [Don Marti()
+- [Greg McVerry]()
 - Gail
-- Birgit Penzenstadler
-- Greg
-- Clint LaLonde
+- [Birgit Penzenstadler]()
+- [Greg Hislop]()
+- [Clint LaLonde]()
+
 
 #### License
 

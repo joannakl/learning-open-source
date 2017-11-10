@@ -18,7 +18,7 @@ materials: Pencil and paper or a computer-- a way of recording notes.
 
 **'Open' is not one dimensional, nor is it something you can point to specifically - rather it is a a rich and innovative ecosystem enabled by a variety of actions and attributes.**
 
-Watch this light introduction to open source, using a cooke recipe to represent software, licensing and collaboration.
+Watch this light introduction to open source, using recipe to represent software, licensing and collaboration.
 
 ### {{ site.video }} Endless Possibilities
 

@@ -52,3 +52,4 @@ Better yet, you'll find detailed instructions for what to do for all those scena
 ### Attribution
 
 [1] [Github Flight Rules](https://github.com/k88hudson/git-flight-rules) - by Kate Hudson
+[2] Title inspired by Mozfest 2015 Session by Matt Thomspon and Phlillip Smith : [Getting Down With Github](https://github.com/mozilla/mozfest-program/issues/325).
