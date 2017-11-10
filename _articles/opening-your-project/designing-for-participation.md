@@ -1,17 +1,29 @@
 ---
 layout: page
 title: Designing for Participation
-module: '4.3'
+module: '4.2'
 date: 2016-10-06T14:05:56.000Z
-time: 20 mins
-following: _articles/
-summary: >-
-
+time: 1+ hours
+following:  _articles/opening-your-project/setting-up.md
+summary: "This section will help new project maintainers visualize success of contributors using Design Thinking"
 prereq: Have read previous sections.
-format: '*   Complete reading on this topic, and take associated quiz.'
+format: '* Complete Personas & Pathways activities'
 ---
 ![](https://c2.staticflickr.com/4/3893/14708038406_7dfc461b46_z.jpg)
 
+
+---
+layout: page
+title: "Contributor Personas & Pathways"
+module: "3.2"
+date: 2016-10-06 14:05:56
+time: "45 min"
+following: _articles/building-communities-of-contributors/understand-meaningful-participation-and-distributed-leadership.md
+summary: "Learn how to bring contributors onto your project by using tools called \"personas\" and \"pathways.\" These tools will help you plan and test how you'll interact with new contributors, and imagine what is really involved for the contributor to succeed."
+prereq: "Have completed all previous sections and modules"
+format: "A writing and thinking assignment. It can be done alone or you can invite a supporter or community member to help!"
+materials: "Pen or pencil and paper, or a computer with word processing software"
+---
 * TOC
 {:toc}
 

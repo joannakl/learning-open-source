@@ -1,18 +1,20 @@
 ---
 layout: page
-title: "Setting Up for Success"
+title: "Documenting for Success"
 module: '4.3'
 date: 2016-10-06 14:05:56
 time: "20 min"
 following: _articles/opening-your-project/designing-for-participation.md
-summary: "."
+summary: "This module will help new maintainers with the basics of project documentation seutup."
 prereq: ""
 format: >
   * Read text and explore links
   *
 materials: ""
 ---
+![openimg]({{site.baseurl}}/img/sup.jpg)
 
+Photo CCO 1.0 [Dustin Lee](https://visualhunt.com/p/dustin-lee/)
 * TOC
 {:toc}
 
@@ -44,6 +46,7 @@ This file is for:
    * Project consumers - users who want to build off the project to create their own project [1]
 
 **Code of Conduct**
+
 Ensure your project has a Code of Conduct, this means not only do you have a CoC, but that you understand, and can communicate how that code is enforced.
 
 
@@ -54,9 +57,8 @@ Ensure your project has a Code of Conduct, this means not only do you have a CoC
 * [Select a license](https://help.github.com/articles/licensing-a-repository/)
 * Create a [README.md](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/) for your project
 * Create a [CONTRIBUTING.md](http://mozillascience.github.io/working-open-workshop/contributing/) for your project.  
-* Create at least one [Meta task](https://github.com/mozilla/community-development/blob/master/ISSUE_TEMPLATE.md) for your project using the provided template.
 * [Create a Code of Conduct](https://opensource.guide/code-of-conduct/) - or reference Mozilla's [Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) in your CONTRIBUTING.md
 
 ## Attribution
-- [1] Mozilla Science Lab - Wrangling Web Contributions: How to Build a CONTRIBUTING.md
+Mozilla Science Lab - Wrangling Web Contributions: How to Build a CONTRIBUTING.md
 -

@@ -1,14 +1,15 @@
 ---
 layout: page
-title: Planning & Visualization
-module: '4.1'
+title: Writing Good Open Tasks
+module: '4.4'
 date: 2016-10-06T14:05:56.000Z
 time: 20 mins
 following:
-summary: >-
+summary: "This section will provide guidance and practice excercises in creating project and contributor tasks."
 prereq:
-format: '*   '
+format: '* Reading & project task creation'
 ---
+![openimg]({{site.baseurl}}/img/scientist.jpg)
 * TOC
 {:toc}
 
@@ -33,4 +34,7 @@ For those issues and tasks that are not ideal for new contributors, use labels t
 
 ![contributingtags]({{site.baseurl}}/img/contributingtags.png)
 
+### {{ site.assignment }}
+
 * Create at least one 'Good First Task' for your project using the [provided template](https://github.com/emmairwin/open-innovation-curriculum/blob/master/open-source-clubs/volunteer-task.md).
+* Create at least one [Meta task](https://github.com/mozilla/community-development/blob/master/ISSUE_TEMPLATE.md) for your project using the provided template.
