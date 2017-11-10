@@ -3,10 +3,10 @@ layout: page
 title: Licensing
 module: '2.2'
 date: 2016-10-06T14:05:56.000Z
-time: 20 mins
+time: 30 mins
 following: _articles/stepping-into-opensource/community-health.md
 summary: >-
-  This section will provide basics of licencing and legal things in Open Source.
+  This section will provide basics of licensing and legal things in Open Source.
 prereq: Have read and completed 'Evaluating an Open Project' activities
 format: >
   *   Read and apply what you learn, to evaluate project licensing for the projects you selected in the previous section.

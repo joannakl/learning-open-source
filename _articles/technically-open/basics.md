@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Technical Basics
+title: FOSS Technical Basics
 module: '3.1'
 date: 2016-10-06T14:05:56.000Z
 time: 90 mins
@@ -26,7 +26,7 @@ If you are not yet familiar, or comfortable with using command line tools, this 
 1. Complete one of the following:
 	* [Learn The Command Line](https://ryanstutorials.net/linuxtutorial/)  - for those with Linux of Macs who want to learn command line on their own machines.
 	* Code Acadamy's ['Your First Command Line'](https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command?action=lesson_resume).
- 
+
 
 ### Communication Tools & Trends
 
@@ -34,9 +34,9 @@ Historically open source projects lean on tools like [IRC](https://en.wikipedia.
 
 Additionally communities are starting to experiment with other communication norms.  More often we are seeing tools like [Rocketchat](https://rocket.chat/), [Mattermost](https://about.mattermost.com/), [Discord](https://discordapp.com/) and [Gitter](https://gitter.im/) used as collaborative way of sharing workflows, with itegrations for many of the tools those communities use.
 
-**There is some tension within the open ecosystem when tools that are not themselves open are chosen, which if you completed the first module you'll recognize that tension being tied to the Internet Freedom movement and accessiblity of the tools themselves. IRC for example is considered a non-accessible tool for many non-technical contributors. 
+**There is some tension within the open ecosystem when tools that are not themselves open source are chosen**, which if you completed the first module you'll recognize that tension being tied to the Internet Freedom movement and accessibility. IRC for example is considered a non-accessible tool for many non-technical contributors.
 
-Often communication solutions are no longer tied to a single platform, and instead a web of tools are tied together via 'briges' between tools like [Sameroom](https://sameroom.io/blog/connecting-a-channel-in-slack-to-a-channel-irc/).  Still more projects limit their dicussions to issue trackers.
+Often communication solutions are no longer tied to a single platform, and instead a web of tools are tied together via 'bridges' between tools like [Sameroom](https://sameroom.io/blog/connecting-a-channel-in-slack-to-a-channel-irc/).  Still more projects limit their discussions to issue trackers.
 
 ### TODO norms of open source comms
 
@@ -47,12 +47,11 @@ Often communication solutions are no longer tied to a single platform, and inste
  * #wikipedia
  * #drupal
  * #umbuntu
-2. For 3 open projects you've chosen in earlier modules, or any 3 open projects selected from [Github's list of good projects for beginners](https://github.com/trending) answer the following questions:
+2. For any project you've interacted with in earlier modules, or any 3 open projects selected from [Github's list of good projects for beginners](https://github.com/trending) answer the following questions:
  * Where do people talk?
  * How active are the communication channels where people talk?
  * How many channels are available within a a project (are there channels for focused work, or new contributors?)
+ * How does the code of conduct apply to communication channels?
 3.  Write a blog post on one of the following topics:
 	*  My experience communicating with open source.
 	*  Why, or why not open communities like [Creative Commons](https://slack-signup.creativecommons.org/) and [Open Data](http://slack.opendatacommunity.io/) should use a closed-source tool like Slack.
-	
-
