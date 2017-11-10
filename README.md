@@ -25,7 +25,7 @@ We abide by the [Mozilla Community Participation Guidelines](https://www.mozilla
 TODO: LINK & Add full names
 
 - [Heidi Ellis]()
-- [Don Marti()
+- [Don Mardi()
 - [Greg McVerry]()
 - Gail
 - [Birgit Penzenstadler]()
