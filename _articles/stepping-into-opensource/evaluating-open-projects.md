@@ -62,7 +62,7 @@ The benefits of this approach are:
 
 ![tracks]({{site.baseurl}}/img/hands.jpg)
 
-As part of your **[Open Source Career Map](https://docs.google.com/document/d/1u8G3cTYVBrSWcUIaU_m7Xixr3wlDS3rlBL4HvCzoPPw/edit#)** assignment in [module 1](http://127.0.0.1:4000/learning-open-source/articles/open-is-an-attitude/opening-your-future/), you were have been asked to think about your motivations for contributing to an Open Project. Enter HFOSS - or simply Humanitarian Open Source.
+As part of your **[Open Source Career Map](https://docs.google.com/document/d/1u8G3cTYVBrSWcUIaU_m7Xixr3wlDS3rlBL4HvCzoPPw/edit#)** assignment in [module 1](http://127.0.0.1:4000/learning-open-source/articles/open-is-an-attitude/opening-your-future/), you were asked to think about your motivations for contributing to an Open Project. Enter HFOSS - or simply Humanitarian Open Source.
 
 A great way to select a project is by connecting to a cause that you feel connected to and passionate about.
 
